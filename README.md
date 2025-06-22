@@ -5,12 +5,12 @@
 
 - Base models : 0515Nupp_CarbonIntensity_health
 
-- SEM : 
+- GSEM : 
 	0509SEM_total
 	0509SEM_urban
 	0509SEM_rural
 	
-- SEM bootstrap
+- GSEM bootstrap
 	0509_bootstrap
 
 
@@ -31,7 +31,7 @@ do $dof/1_Nupp_CarbonIntensity_health.do
 	
 
 ***********
-*** SEM ***
+*** GSEM ***
 ***********	
 
 do $dof/2_1GSEM_total.do
@@ -45,7 +45,7 @@ do $dof/2_4GSEM_bydisease.do
 
 
 *****************
-*** Bootstrap ***
+*** GSEM Bootstrap ***
 *****************
 
 do $dof/3_1total_boot.do

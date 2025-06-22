@@ -2,7 +2,6 @@
 * Topic: Carbon-intensive urbanization exacerbates elderly health inequalities across urban-rural divides
 * Date: 20250509
 * Update: 20250509
-* Note : GDP3 - 建成区GDP(以2010年建成区边界为准）
 
 - Base models : 0515Nupp_CarbonIntensity_health
 

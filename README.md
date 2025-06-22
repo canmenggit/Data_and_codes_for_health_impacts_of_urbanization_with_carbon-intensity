@@ -3,15 +3,11 @@
 * Date: 20250509
 * Update: 20250509
 
-- Base models : 0515Nupp_CarbonIntensity_health
+- Base models : Figures 3-5 and Extended Data Figures 2 and 3
 
-- GSEM : 
-	0509SEM_total
-	0509SEM_urban
-	0509SEM_rural
+- GSEM : Figure 6 
 	
-- GSEM bootstrap
-	0509_bootstrap
+- GSEM bootstrap : Extended Data Figure 4
 
 
 
@@ -24,8 +20,8 @@ do $dof/1_Nupp_CarbonIntensity_health.do
 	/*
 	- Merge datasets
 	- Create indicators
-	- Baesline DiD regression and eventplot
-	- Moderating Effect
+	- Baesline DiD regression and eventplot (FIgure 3)
+	- Moderating Effect (Figures 4 and 5, Extended Data Figures 2 and 3)
 	*/
 
 	

@@ -20,7 +20,7 @@ do $dof/1_Nupp_CarbonIntensity_health.do
 	/*
 	- Merge datasets
 	- Create indicators
-	- Baesline DiD regression and eventplot (FIgure 3)
+	- Baesline DiD regression and eventplot (Figure 3)
 	- Moderating Effect (Figures 4 and 5, Extended Data Figures 2 and 3)
 	*/
 

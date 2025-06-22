@@ -35,8 +35,11 @@ do $dof/1_Nupp_CarbonIntensity_health.do
 ***********	
 
 do $dof/2_1GSEM_total.do
+
 do $dof/2_2GSEM_urban.do
+
 do $dof/2_3GSEM_rural.do
+
 do $dof/2_4GSEM_bydisease.do
 
 
@@ -46,7 +49,9 @@ do $dof/2_4GSEM_bydisease.do
 *****************
 
 do $dof/3_1total_boot.do
+
 do $dof/3_2urban_boot.do
+
 do $dof/3_3rural_boot.do
 
 do $dof/3_4Boot_total_disease.do
